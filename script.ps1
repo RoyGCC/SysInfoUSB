@@ -32,7 +32,7 @@ ForEach ($Monitor in $Monitors)
 }
 echo " "
 echo " "
-echo "PC hacked. Virus terminated sucessfully!"
+echo "PC hacked. sysinfousb terminated sucessfully!"
 echo " "
 echo " "
 pause;
