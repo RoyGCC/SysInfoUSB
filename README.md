@@ -1,0 +1,1 @@
+-	SysInfoUSB: Desarrollé en C# para obtener de manera ágil información de dispositivos informáticos, facilitando el inventario empresarial con detalles como modelo, dirección MAC, capacidad de disco duro y RAM.
